@@ -7,9 +7,9 @@
 </div>
 
 
-- 🔭 Atualmene procurando estágio em Ciência de dados
-- 👨‍💻 8 semestre de Enganharia da Computação
-- 🌱 Estou fazendo curso de Ciência de dados e de IA na Danki code
+- 🔭 Ciêntista de Dados Pleno
+- 👨‍💻 Formado em Engenharia da Computação
+- 🌱 Pós Graduação em Ciência de Dados e Machine Learning
 - 📫 Contate-me pelo email lucasbitar@hotmail.com
 
 
